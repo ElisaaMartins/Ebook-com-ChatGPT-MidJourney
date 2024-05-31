@@ -57,7 +57,7 @@ ChatGPT：
 
 Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei o power point para diagramação, seguindo como base os videos do Felipe Aguiar da DIO.
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <img 
