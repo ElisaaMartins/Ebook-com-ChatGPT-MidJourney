@@ -23,7 +23,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [Image Create Bing] (https://www.microsoft.com/pt-br/edge/features/image-creator?form=MA13FJ&pl=launch)
+- [Image Create Bing](https://www.microsoft.com/pt-br/edge/features/image-creator?form=MA13FJ&pl=launch)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -41,7 +41,7 @@ ChatGPT：
 >Deixe o texto de facil entendimento
 >Traga reflexões para as crianças
 >Crie uma personagem principal chamada Aikko e que faça as crianças se identificarem com ela
-> Traga exemplos que as crianças possam relacionar com o dia-a-dia|
+> Traga exemplos que as crianças possam relacionar com o dia-a-dia |
 
 ## ✨ Features
 
