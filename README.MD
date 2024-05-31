@@ -64,7 +64,7 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/120751063?s=400&u=954775bf352a286d5b9f9326c1b30603ec07a167&v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
