@@ -68,18 +68,14 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/ElisaaMartins">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/elisa-martins-/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/elisaap_oliveira/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
