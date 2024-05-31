@@ -34,10 +34,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | me de ideias de criações de ebooks baseadas na lenda do fio vermelho |
-| conteúdo | faça um texto para ebook, com foco na lenda japonesa do fio vermelho, em exemplo de fabulas e como se fosse um livro infantil
-
-{REGRAS}
->Escreva sempre de maneira simples
+| conteúdo | faça um texto para ebook, com foco na lenda japonesa do fio vermelho, em exemplo de fabulas e como se fosse um livro infantil 
+           | {REGRAS} |
+           | >Escreva sempre de maneira simples |
 >Deixe o texto de facil entendimento
 >Traga reflexões para as crianças
 >Crie uma personagem principal chamada Aikko e que faça as crianças se identificarem com ela
